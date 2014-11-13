@@ -1,4 +1,4 @@
-TechSharing
+TechSharing - GradleApp
 ===========
 
 gradle-app
